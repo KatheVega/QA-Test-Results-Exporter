@@ -1,7 +1,7 @@
 # Privacy Policy - QA Test Results Exporter
 
 **Last Updated:** November 19, 2025  
-**Extension Version:** 1.5
+**Extension Version:** 1.4
 
 ## Introduction
 
