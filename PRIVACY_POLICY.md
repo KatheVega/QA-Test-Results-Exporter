@@ -233,4 +233,4 @@ You do NOT consent to (because we don't do these):
 
 ---
 
-*This Privacy Policy applies to QA Test Results Exporter Chrome Extension v1.5 and later versions.*
+*This Privacy Policy applies to QA Test Results Exporter Chrome Extension v1.4 and later versions.*
