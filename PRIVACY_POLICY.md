@@ -1,7 +1,7 @@
 # Privacy Policy - QA Test Results Exporter
 
-**Last Updated:** November 19, 2025  
-**Extension Version:** 1.4
+**Last Updated:** November 22, 2025  
+**Extension Version:** 1.5
 
 ## Introduction
 
@@ -233,4 +233,4 @@ You do NOT consent to (because we don't do these):
 
 ---
 
-*This Privacy Policy applies to QA Test Results Exporter Chrome Extension v1.4 and later versions.*
+*This Privacy Policy applies to QA Test Results Exporter Chrome Extension v1.5 and later versions.*
